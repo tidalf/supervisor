@@ -11,7 +11,7 @@ from ..const import (
     ATTR_ACCESS_TOKEN,
     ATTR_AUDIO_INPUT,
     ATTR_AUDIO_OUTPUT,
-    ATTR_BOOT,
+#    ATTR_BOOT,
     ATTR_IMAGE,
     ATTR_PORT,
     ATTR_REFRESH_TOKEN,
